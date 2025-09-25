@@ -1,0 +1,22 @@
+:root {
+        --warna1-color : #a200ff ;
+        --warna2-color : rgb(0, 255, 72) ;
+        --warna-text : hsl(27, 88%, 43%) ;
+        --warna-background:rgba(0, 225, 255, 0.637) ;
+}
+
+.bg-primary-color{
+    background-color:var(--warna-background);
+}
+
+.warna-text{
+    color:var(--warna-text);
+}
+
+.warna2-color{
+    color:var(--warna2-color)
+}
+
+.text {
+    font-size: 150px;
+}
